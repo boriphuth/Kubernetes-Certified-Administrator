@@ -6,7 +6,7 @@ to those materials coming from the allowed sources [kubernetes.io](kubernetes.io
 
 _Before to start_ 
 
-Ensure you have the right version of Kubernetes documentation selected (e.g. v1.15  for the current exam) especially for API objects and annotations.
+Ensure you have the right version of Kubernetes documentation selected (e.g. v1.16 as of 20th Nov. 2019 exam) especially for API objects and annotations. This release removes several deprecated API's. 
 
 
 ## Exam Objectives
@@ -21,7 +21,7 @@ These are the exam objectives you review and understand in order to pass the tes
 * [Create and configure basic Pods](https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/)
 
 
-### [Configuration] 18% (https://v1-9.docs.kubernetes.io/docs/reference/generated/kubernetes-api/v1.9/#-strong-config-storage-strong-)
+### [Configuration](https://v1-9.docs.kubernetes.io/docs/reference/generated/kubernetes-api/v1.9/#-strong-config-storage-strong-) 18%
 
 * Understand ConfigMaps
     * [Configure a Pod to Use a ConfigMap](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/)
